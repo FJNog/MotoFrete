@@ -1,0 +1,11 @@
+MotoFrete GCM
+https://console.developers.google.com/home/dashboard?project=motofrete-1140
+
+Phonegap Plugin Push
+https://github.com/phonegap/phonegap-plugin-push/blob/master/README.md
+
+PubNub JS
+https://github.com/girliemac/phonegap-simple-demo/blob/master/www/js/index.js
+
+PubNub tutorial
+https://www.pubnub.com/blog/2014-12-18-sending-android-push-notifications-via-gcm-javascript-using-phonegap/
